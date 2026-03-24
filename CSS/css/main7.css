@@ -17,6 +17,24 @@ html {
 }
 
 .s {
-    font-size: 10%;
+    font-size: 100%;
     /* 10%-->10px percent of parent   */
+}
+ 
+div{
+font-size: 7vw;
+    /* 7vw-->7*view port width   */
+}
+div{
+font-style :italic ;
+font-variant: small-caps;
+/* font-weight: normal; */
+font-weight : bold;
+}
+a{
+    cursor: e-resize;
+}
+
+span {
+    cursor :pointer;
 }
