@@ -1,0 +1,40 @@
+.div-block{
+    background-color:rgba(165, 42, 42,90%) ;
+    padding: 10px;
+    margin: -10px;
+     text-align: center;
+     width: 100%;
+     display : inline-block;
+     /* visibility: hidden; */
+}
+span{
+    background-color: aquamarine;
+    display : block;
+    /* display: none; */
+}
+.one{
+    color: blue;
+    padding: 10px;
+    font-size: 40px;
+    text-align: center;
+    border : 5px solid rebeccapurple;
+}
+.tow{
+    color: blue;
+    padding: 10px;
+    font-size: 40px;
+    text-align: center;
+    border : 5px solid rgb(255, 0, 242);
+}
+.three{
+    color: blue;
+    padding: 10px;
+    font-size: 40px;
+    text-align: center;
+    border : 5px solid rgb(4, 4, 4);
+}
+.one,.tow,.three{
+      padding: 30px;
+    font-size: 40px;
+    text-align: center;
+}

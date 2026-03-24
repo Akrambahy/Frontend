@@ -1,0 +1,37 @@
+
+ .text-style .text{
+    /* color : blueviolet; */
+background-color : rgb(255, 255, 255);   
+text-shadow : 1px 0px 0px green;
+text-align : left;
+direction : ltr; 
+display : inline;
+/* text-decoration: underline; */
+/* text-decoration: none; */
+text-transform : uppercase;
+letter-spacing: 0px;
+text-indent: 10px;
+}
+.text-style .image{
+vertical-align: middle;
+border: 10px solid green;
+}
+
+.text-style .lorem{
+display: inline-block;
+background-color : gray;
+line-height:1.6;
+width: 200px;
+/* white-space:nowrap; */
+word-break: keep-all;
+}
+
+.link{
+  background-color: aquamarine;  
+  width: 100px;
+  height: 50px;
+  /* word-break : break-word; */
+  overflow: hidden;
+  /* white-space: nowrap; */
+  text-overflow: ellipsis;
+}

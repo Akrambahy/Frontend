@@ -1,0 +1,32 @@
+.P1 {
+ color: rgb(99, 58, 99) ;
+ font-size: 40px ;
+padding-top : 10px0 ;
+}
+#p2{
+    color : aquamarine;
+    font-size: 40px;
+    background-repeat: no-repeat;
+}
+.starting-page{
+  background-color: rgb(0, 0, 0);
+  /* background-image: url("../../HTML/exImgs/Screenshot\ From\ 2025-09-11\ 14-13-33.png"); */
+  font-style:   normal;
+  color :  rgb(176, 123, 53) ;
+  /* background-repeat: no-repeat; */
+  /* background-attachment: fixed; */
+  /* background-position: center; */
+background-size: 100%;
+/* background-attachment: fixed; */
+padding-left: 50%;
+/* padding-right: 20%; */
+padding-top: 10px;
+padding-bottom: 10px;
+width: auto;
+/* margin: 20px; */
+margin: -1%;
+/* margin-right: -50%; */
+border-width: 10px;
+border-color: rgb(176, 123, 53);
+border-style: solid;
+}

@@ -1,0 +1,16 @@
+.name-info {
+font-family: "Playfair Display", serif;
+    padding: 50px;
+    text-align: center;
+    background-color: antiquewhite;
+    font-size: 20px;
+    border: 5px solid rgb(164, 104, 104);
+}
+
+.name-info .value {
+    width: 120px;
+    text-align: center;
+    border: 5px solid;
+    border-color: inherit;
+    margin: auto;
+}

@@ -1,0 +1,23 @@
+div p {
+    color: aquamarine;
+    font-size: 40px;
+    border: 10px solid violet;
+    padding: 20px;
+    margin: 15px;
+}
+
+div .special {
+    color: black;
+    font-size: 40px;
+    border: 10px solid salmon;
+    padding: 20px;
+    margin: 15px;
+}
+
+.special {
+    color: rgba(0, 0, 0, 0.532);
+    font-size: 40px;
+    border: 10px solid rgb(71, 4, 255);
+    padding: 20px;
+    margin: 15px;
+}

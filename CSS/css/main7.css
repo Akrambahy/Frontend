@@ -1,0 +1,22 @@
+html {
+    font-size: 42px;
+}
+
+.div-name {
+    font-size: 100px;
+}
+
+.s {
+    font-size: 2em;
+    /* 2em-->200 em=font size of parent*/
+}
+
+.s {
+    font-size: 2rm;
+    /* 2em-->84 em=font size of root(html tag)*/
+}
+
+.s {
+    font-size: 10%;
+    /* 10%-->10px percent of parent   */
+}
