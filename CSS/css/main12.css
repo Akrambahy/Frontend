@@ -1,0 +1,11 @@
+.tow::first-letter {
+color: darkgray;
+font-size: large;
+}
+.one::first-line{
+font-weight: bold ;
+color: aquamarine;
+}
+::selection{
+background-color: aquamarine;
+ }

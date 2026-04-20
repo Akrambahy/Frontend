@@ -1,0 +1,37 @@
+.parent{
+    overflow: hidden;
+    margin: auto;
+width: 400px;
+height: 200px;
+padding: 10px;
+background-color: aliceblue;
+}
+
+.parent .one , .parent .tow {
+    float :left;
+    width: 50%;
+    height: 100%;
+}
+
+.one{
+    background-color: aquamarine;
+}
+.tow{
+    background-color: blueviolet;
+}
+
+.up{
+background-color: azure;
+height: 90px;
+color: black;
+margin-bottom: 20px;
+}
+.down{
+background-color: var(--mainColor,green);
+height: 90px;
+color: rgb(255, 255, 255);
+}
+
+:root{
+ --mainColor: rgb(13, 52, 13); 
+}

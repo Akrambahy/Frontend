@@ -1,0 +1,16 @@
+.one{
+width: 50px;
+height: 50px;
+/* transition-duration : 1s;
+transition-delay: .2s;
+transition-property: all;
+transition-property: background-color,color;
+transition-timing-function: liner; */
+background-color: aqua;
+transition :background-color 1s, color 3s;
+}
+.one:hover{
+  /* margin: 20px auto; */
+  background-color: black  ;
+  color: rgb(255, 255, 255);
+}
