@@ -1,0 +1,14 @@
+p{
+text-align:left;
+color:blue;
+}
+
+h1 .center{
+text-align:center;
+color:red;    
+}
+
+*{
+color:green;
+text-align : center;    
+}
